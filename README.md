@@ -1,5 +1,5 @@
 # 2019-2020 Homework Projects
-<h4>Some homework projects from my first year of university study.</h4>
+<h4>Some homework projects from my first year of university study. All projects are done using Java.</h4>
 
 <h1>Fall 2019 - Intro to OOP - <a href="https://www.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE114">Class Description</a></h1>
 <h3>Connect Four</h3>
