@@ -3,7 +3,6 @@ import java.io.Serializable;
  * This class represents a blood type of a patient.
  * @author Cesare Lucido
  *     e-mail: cesare.lucido@stonybrook.edu
- *     sbid: 112831455
  *     R01
  */
 public class BloodType implements Serializable {

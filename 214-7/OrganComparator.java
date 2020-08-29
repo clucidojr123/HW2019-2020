@@ -3,7 +3,6 @@ import java.util.Comparator;
  * This class represents a comparator between two patients' organ of need or donation
  * @author Cesare Lucido
  *     e-mail: cesare.lucido@stonybrook.edu
- *     sbid: 112831455
  *     R01
  */
 public class OrganComparator implements Comparator<Patient> {

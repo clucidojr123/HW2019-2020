@@ -3,7 +3,6 @@ import java.io.Serializable;
  * This class represents an active organ donor or recipient within a database
  * @author Cesare Lucido
  *     e-mail: cesare.lucido@stonybrook.edu
- *     sbid: 112831455
  *     R01
  */
 public class Patient implements Comparable, Serializable {

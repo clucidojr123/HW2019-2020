@@ -3,7 +3,6 @@ import java.util.Stack;
  * This class represents a stack that holds the history of equations provided by the user.
  * @author Cesare Lucido
  *     e-mail: cesare.lucido@stonybrook.edu
- *     sbid: 112831455
  *     R01
  */
 public class HistoryStack extends Stack<Equation>{

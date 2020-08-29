@@ -7,7 +7,6 @@ import java.util.Scanner;
  * It includes an interface for the user to add, process, and display items.
  * @author Cesare Lucido
  *     e-mail: cesare.lucido@stonybrook.edu
- *     sbid: 112831455
  *     R01
  */
 public class GroceryDriver{

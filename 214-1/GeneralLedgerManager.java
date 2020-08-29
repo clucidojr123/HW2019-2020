@@ -5,7 +5,6 @@ import java.util.Scanner;
  * This class represents a General Ledger Manager that controls the interface between the user and the ledger.
  * @author Cesare Lucido
  *     e-mail: cesare.lucido@stonybrook.edu
- *     sbid: 112831455
  *     R01
  */
 public class GeneralLedgerManager {

@@ -3,7 +3,6 @@
  * (or the change in cash as a result of the transaction), and description.
  * @author Cesare Lucido
  *     e-mail: cesare.lucido@stonybrook.edu
- *     sbid: 112831455
  *     R01
  */
 public class Transaction implements Comparable<Transaction>{

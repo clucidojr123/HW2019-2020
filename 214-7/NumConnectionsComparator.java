@@ -3,7 +3,6 @@ import java.util.Comparator;
  * This class represents a comparator between two patients' number of connections
  * @author Cesare Lucido
  *     e-mail: cesare.lucido@stonybrook.edu
- *     sbid: 112831455
  *     R01
  */
 public class NumConnectionsComparator implements Comparator<Patient> {

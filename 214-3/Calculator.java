@@ -5,7 +5,6 @@ import java.util.Scanner;
  * This class represents a calculator that holds the interface for the user to interact with.
  * @author Cesare Lucido
  *     e-mail: cesare.lucido@stonybrook.edu
- *     sbid: 112831455
  *     R01
  */
 

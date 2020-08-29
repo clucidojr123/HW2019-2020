@@ -3,7 +3,6 @@
  * of recipients or donors (100 for each)
  * @author Cesare Lucido
  *     e-mail: cesare.lucido@stonybrook.edu
- *     sbid: 112831455
  *     R01
  */
 public class FullPatientException extends Exception{

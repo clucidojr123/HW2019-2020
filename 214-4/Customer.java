@@ -3,7 +3,6 @@
  * Customers are nodes for a linked list within a Restaurant.
  * @author Cesare Lucido
  *     e-mail: cesare.lucido@stonybrook.edu
- *     sbid: 112831455
  *     R01
  */
 public class Customer{

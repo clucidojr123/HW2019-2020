@@ -3,7 +3,6 @@
  * It also holds the prefix and postfix representation of the given infix equation if it is balanced.
  * @author Cesare Lucido
  *     e-mail: cesare.lucido@stonybrook.edu
- *     sbid: 112831455
  *     R01
  */
 

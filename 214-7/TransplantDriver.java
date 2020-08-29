@@ -6,7 +6,6 @@ import java.util.Scanner;
  * the database of recipients and donors
  * @author Cesare Lucido
  *     e-mail: cesare.lucido@stonybrook.edu
- *     sbid: 112831455
  *     R01
  */
 public class TransplantDriver {

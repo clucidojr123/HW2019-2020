@@ -4,7 +4,6 @@
  * a train into a track.
  * @author Cesare Lucido
  *     e-mail: cesare.lucido@stonybrook.edu
- *     sbid: 112831455
  *     R01
  */
 public class InvalidTrainException extends Exception{

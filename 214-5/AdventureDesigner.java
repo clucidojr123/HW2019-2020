@@ -4,7 +4,6 @@ import java.util.Scanner;
  * This class represents the game designer used to make and play a game with scenes
  * @author Cesare Lucido
  *     e-mail: cesare.lucido@stonybrook.edu
- *     sbid: 112831455
  *     R01
  */
 public class AdventureDesigner{

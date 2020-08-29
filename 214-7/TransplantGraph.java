@@ -8,7 +8,6 @@ import java.util.Scanner;
  * This class represents an Transplant Graph that contains an adjacency matrix for the organ donors and recipients.
  * @author Cesare Lucido
  *     e-mail: cesare.lucido@stonybrook.edu
- *     sbid: 112831455
  *     R01
  */
 public class TransplantGraph implements Serializable {

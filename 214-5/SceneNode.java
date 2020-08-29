@@ -2,7 +2,6 @@
  * This class represents a scene within a game, stored as a node within a SceneTree
  * @author Cesare Lucido
  *     e-mail: cesare.lucido@stonybrook.edu
- *     sbid: 112831455
  *     R01
  */
 public class SceneNode{

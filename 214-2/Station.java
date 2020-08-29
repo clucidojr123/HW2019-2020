@@ -6,7 +6,6 @@ import java.util.Scanner;
  * which themselves have a linked list of trains.
  * @author Cesare Lucido
  *     e-mail: cesare.lucido@stonybrook.edu
- *     sbid: 112831455
  *     R01
  */
 public class Station {

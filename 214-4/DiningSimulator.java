@@ -8,7 +8,6 @@ import java.util.Scanner;
  * display statistics after the final simulation unit.
  * @author Cesare Lucido
  *     e-mail: cesare.lucido@stonybrook.edu
- *     sbid: 112831455
  *     R01
  */
 public class DiningSimulator{

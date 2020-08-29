@@ -4,7 +4,6 @@ import java.util.LinkedList;
  * for a linked list in the DiningSimulator.
  * @author Cesare Lucido
  *     e-mail: cesare.lucido@stonybrook.edu
- *     sbid: 112831455
  *     R01
  */
 public class Restaurant extends LinkedList<Customer> {
